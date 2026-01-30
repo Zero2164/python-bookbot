@@ -35,9 +35,4 @@ Found {word_count} total words
 {sorted_characters}
 ============= END ===============
     """)
-    
-    
-    # print(f"Found {word_count} total words")
-    # print(f"Characters {character_count}")
-    #print(book_content)
 main()
